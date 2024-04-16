@@ -11,7 +11,7 @@ trouble finding engaging click-baity videos?
 **Fear no more.**
 
 This extension adds the famous  
-youtuber **MrBeast** to every thumbnail.
+youtuber **MBT** to every thumbnail.
 
 <br>
 
@@ -29,7 +29,7 @@ youtuber **MrBeast** to every thumbnail.
 
 -   This extension was inspired by **[Unnecessary Inventions][UI YouTube]** and his **[Website][UI Website]**.
 
--   This extension is unofficial and not affiliated with MrBeast or YouTube.
+-   This extension is unofficial and not affiliated with MBT or YouTube.
 
 
 <!----------------------------------------------------------------------------->
