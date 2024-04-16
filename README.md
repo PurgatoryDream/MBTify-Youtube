@@ -1,7 +1,7 @@
 
 <div align = center >
 
-# MrBeastify
+# MBTify
 
 <br>
 
